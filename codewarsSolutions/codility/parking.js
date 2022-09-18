@@ -56,3 +56,5 @@ function solution(E, L) {
 	//return
 	return count;
 }
+
+solution("09:42", "11:42");
